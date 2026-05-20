@@ -1,15 +1,15 @@
 # Bruno Mafra
 
-Desenvolvedor Back-End com foco em Python, TypeScript, Machine Learning e construcao de produtos full-stack.
+Desenvolvedor Back-End com foco em Python, TypeScript, Machine Learning e construção de produtos full-stack.
 
-Atualmente construo aplicacoes que unem backend, interfaces modernas, automacao e IA aplicada. Gosto de projetos com proposta clara, codigo organizado e experiencia real de uso.
+Atualmente construo aplicações que unem backend, interfaces modernas, automação e IA aplicada. Gosto de projetos com proposta clara, código organizado e experiência real de uso.
 
 ## Sobre mim
 
-- Desenvolvimento de APIs, aplicacoes web e produtos full-stack
-- Interesse forte em IA aplicada, automacoes e sistemas com dados
-- Experiencia com TypeScript, React, Next.js, Python e Supabase
-- Foco em criar projetos publicos com utilidade real, boa apresentacao e evolucao continua
+- Desenvolvimento de APIs, aplicações web e produtos full-stack
+- Interesse forte em IA aplicada, automações e sistemas com dados
+- Experiência com TypeScript, React, Next.js, Python e Supabase
+- Foco em criar projetos públicos com utilidade real, boa apresentação e evolução contínua
 
 ## Stack principal
 
@@ -25,33 +25,33 @@ Atualmente construo aplicacoes que unem backend, interfaces modernas, automacao 
 
 ### TemAi
 
-App mobile-first de receitas com IA que transforma ingredientes disponiveis em sugestoes rapidas e receitas completas. O projeto inclui fluxo de IA em duas etapas, biblioteca de receitas, Supabase, paginas publicas, perfil de usuario e estrutura preparada para recursos premium.
+App mobile-first de receitas com IA que transforma ingredientes disponíveis em sugestões rápidas e receitas completas. O projeto inclui fluxo de IA em duas etapas, biblioteca de receitas, Supabase, páginas públicas, perfil de usuário e estrutura preparada para recursos premium.
 
 **Stack:** Next.js, React, TypeScript, Tailwind CSS, Supabase, API Routes
 
-[Repositorio](https://github.com/brunomafra-dev/TemAi) | [Demo](https://temaiapp.vercel.app)
+[Repositório](https://github.com/brunomafra-dev/TemAi) | Demo temporariamente inativa: https://temaiapp.vercel.app
 
 ### Sabore PDV Inteligente
 
-Sistema de PDV voltado para gestao comercial, com foco em operacao de vendas, produtos e experiencia pratica para pequenos negocios.
+SaaS/PDV inteligente para restaurantes locais, com pedidos de balcão, mesa e delivery próprio, cozinha, caixa manual, estoque, ficha técnica, CMV, validade, recibo não fiscal e módulos opcionais.
 
 **Stack:** TypeScript, React, Next.js
 
-[Repositorio](https://github.com/brunomafra-dev/sabore-pdv-inteligente)
+[Repositório](https://github.com/brunomafra-dev/sabore-pdv-inteligente) | [Demo ativa](https://sabore-pdv-inteligente.vercel.app)
 
 ### SplitMateApp
 
-Aplicacao para dividir despesas entre pessoas de forma simples, usando uma stack web moderna com TypeScript.
+Aplicação para dividir despesas entre pessoas de forma simples, usando uma stack web moderna com TypeScript e integração com Supabase.
 
 **Stack:** TypeScript, Next.js, React
 
-[Repositorio](https://github.com/brunomafra-dev/SplitMateApp)
+[Repositório](https://github.com/brunomafra-dev/SplitMateApp) | Demo temporariamente inativa: https://divideai-iota.vercel.app
 
-## Em evolucao
+## Em evolução
 
-- Melhorando meus projetos principais com READMEs mais completos, demos e documentacao tecnica
-- Aprofundando integracoes com IA e arquitetura de aplicacoes full-stack
-- Construindo um portfolio mais consistente, com projetos que parecem produtos reais
+- Melhorando meus projetos principais com READMEs mais completos, demos e documentação técnica
+- Aprofundando integrações com IA e arquitetura de aplicações full-stack
+- Construindo um portfólio mais consistente, com projetos que parecem produtos reais
 
 ## GitHub
 
