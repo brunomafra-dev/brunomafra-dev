@@ -39,13 +39,42 @@ perfil profissional
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1f2937?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
 ![Git](https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=f97316)
 
+## Gráfico de foco
+
+<img src="./assets/profile-focus.svg" alt="Gráfico de foco atual: Back-End e APIs, IA aplicada, Full-stack, Produto e documentação" width="100%" />
+
+## Projeto principal
+
+### TemAi
+
+O TemAi é meu projeto principal hoje: um app mobile-first de receitas com IA que transforma ingredientes disponíveis em sugestões rápidas e receitas completas sob demanda.
+
+[Repositório](https://github.com/brunomafra-dev/TemAi) | [Demo ativa](https://temaiapp.vercel.app)
+
+**Pontos fortes do projeto:**
+
+- Fluxo de IA em duas etapas: sugestões primeiro, receita completa só quando o usuário escolhe.
+- Experiência pensada para mobile, com foco em uso rápido e direto.
+- Biblioteca de receitas, páginas públicas, perfil de usuário e base preparada para recursos premium.
+- Integração com Supabase e rotas de API separadas para organizar melhor as responsabilidades.
+
+## Mapa visual
+
+```mermaid
+flowchart LR
+    Problema["Problema real"] --> Backend["Back-End e APIs"]
+    Backend --> Dados["Supabase e dados"]
+    Dados --> Interface["Next.js e UI mobile-first"]
+    Interface --> Produto["Demo, README e evolução"]
+```
+
 ## Projetos em destaque
 
-| Projeto                                                                            | O que faz                                                                                                  | Status                                                    |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| [Sabore PDV Inteligente](https://github.com/brunomafra-dev/sabore-pdv-inteligente) | SaaS/PDV para restaurantes locais, com pedidos, caixa, estoque, ficha técnica, CMV e módulos opcionais.    | [Demo ativa](https://sabore-pdv-inteligente.vercel.app)   |
-| [TemAi](https://github.com/brunomafra-dev/TemAi)                                   | App mobile-first de receitas com IA, sugestões por ingredientes e geração de receita completa sob demanda. | Demo temporariamente inativa: https://temaiapp.vercel.app |
-| [SplitMateApp](https://github.com/brunomafra-dev/SplitMateApp)                     | Aplicação para dividir despesas entre pessoas, usando TypeScript, Next.js e integração com Supabase.       | [Demo ativa](https://splitmateapp.vercel.app/)            |
+| Projeto                                                                            | O que faz                                                                                               | Status                                                         |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [TemAi](https://github.com/brunomafra-dev/TemAi)                                   | Projeto principal: app de receitas com IA, sugestões por ingredientes e receita completa sob demanda.   | [Demo ativa](https://temaiapp.vercel.app)                      |
+| [Sabore PDV Inteligente](https://github.com/brunomafra-dev/sabore-pdv-inteligente) | SaaS/PDV para restaurantes locais, com pedidos, caixa, estoque, ficha técnica, CMV e módulos opcionais. | [Demo ativa](https://sabore-pdv-inteligente.vercel.app)        |
+| [SplitMateApp](https://github.com/brunomafra-dev/SplitMateApp)                     | Aplicação para dividir despesas entre pessoas, usando TypeScript, Next.js e integração com Supabase.    | Demo temporariamente inativa: https://splitmateapp.vercel.app/ |
 
 <details>
 <summary><strong>Como penso produto e código</strong></summary>
