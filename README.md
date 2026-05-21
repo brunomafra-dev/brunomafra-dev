@@ -27,7 +27,7 @@ bruno@github
 └─ direção: menos protótipo solto, mais produto navegável e bem apresentado
 ```
 
-> Uso o plano gratuito do Supabase, que limita a quantidade de projetos ativos ao mesmo tempo. Por isso, mantenho a demo principal ativa e marco as outras demos como temporariamente inativas quando precisam dividir infraestrutura.
+> Uso o plano gratuito do Supabase, que limita a quantidade de projetos ativos ao mesmo tempo. Por isso, algumas demos podem ficar temporariamente inativas quando precisam dividir infraestrutura.
 
 ## Stack principal
 
@@ -41,11 +41,11 @@ bruno@github
 
 ## Projetos em destaque
 
-| Projeto                                                                            | O que faz                                                                                                  | Status                                                         |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [Sabore PDV Inteligente](https://github.com/brunomafra-dev/sabore-pdv-inteligente) | SaaS/PDV para restaurantes locais, com pedidos, caixa, estoque, ficha técnica, CMV e módulos opcionais.    | [Demo ativa](https://sabore-pdv-inteligente.vercel.app)        |
-| [TemAi](https://github.com/brunomafra-dev/TemAi)                                   | App mobile-first de receitas com IA, sugestões por ingredientes e geração de receita completa sob demanda. | Demo temporariamente inativa: https://temaiapp.vercel.app      |
-| [SplitMateApp](https://github.com/brunomafra-dev/SplitMateApp)                     | Aplicação para dividir despesas entre pessoas, usando TypeScript, Next.js e integração com Supabase.       | Demo temporariamente inativa: https://divideai-iota.vercel.app |
+| Projeto                                                                            | O que faz                                                                                                  | Status                                                    |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [Sabore PDV Inteligente](https://github.com/brunomafra-dev/sabore-pdv-inteligente) | SaaS/PDV para restaurantes locais, com pedidos, caixa, estoque, ficha técnica, CMV e módulos opcionais.    | [Demo ativa](https://sabore-pdv-inteligente.vercel.app)   |
+| [TemAi](https://github.com/brunomafra-dev/TemAi)                                   | App mobile-first de receitas com IA, sugestões por ingredientes e geração de receita completa sob demanda. | Demo temporariamente inativa: https://temaiapp.vercel.app |
+| [SplitMateApp](https://github.com/brunomafra-dev/SplitMateApp)                     | Aplicação para dividir despesas entre pessoas, usando TypeScript, Next.js e integração com Supabase.       | [Demo ativa](https://splitmateapp.vercel.app/)            |
 
 <details>
 <summary><strong>Como penso produto e código</strong></summary>
