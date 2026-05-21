@@ -57,17 +57,20 @@ perfil profissional
 
 </details>
 
-## GitHub
+## Contato
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunomafra-dev&show_icons=true&theme=github_dark&hide_border=true)
+Vamos conversar sobre backend, IA aplicada ou desenvolvimento full-stack.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomafra-dev&layout=compact&theme=github_dark&hide_border=true)
+<br />
+<br />
+
+<a href="https://www.linkedin.com/in/bruno-carnauba-mafra-4358a1158/">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+</a>
+<a href="https://github.com/brunomafra-dev">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+</a>
 
 </div>
-
-## Contato
-
-- LinkedIn: [linkedin.com/in/bruno-carnauba-mafra-4358a1158](https://www.linkedin.com/in/bruno-carnauba-mafra-4358a1158/)
-- GitHub: [github.com/brunomafra-dev](https://github.com/brunomafra-dev)
