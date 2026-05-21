@@ -20,7 +20,7 @@ Desenvolvedor Back-End focado em transformar ideias em produtos reais com Python
 ## O que estou construindo
 
 ```txt
-bruno@github
+perfil profissional
 ├─ foco: Back-End, APIs, IA aplicada e produtos full-stack
 ├─ stack: Python, TypeScript, Next.js, React, Supabase e Tailwind CSS
 ├─ agora: melhorando projetos públicos, demos e documentação técnica
