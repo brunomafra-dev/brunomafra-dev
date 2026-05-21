@@ -58,15 +58,16 @@ O TemAi é meu projeto principal hoje: um app mobile-first de receitas com IA qu
 - Biblioteca de receitas, páginas públicas, perfil de usuário e base preparada para recursos premium.
 - Integração com Supabase e rotas de API separadas para organizar melhor as responsabilidades.
 
-## Mapa visual
+## Como meus projetos se conectam
 
-```mermaid
-flowchart LR
-    Problema["Problema real"] --> Backend["Back-End e APIs"]
-    Backend --> Dados["Supabase e dados"]
-    Dados --> Interface["Next.js e UI mobile-first"]
-    Interface --> Produto["Demo, README e evolução"]
-```
+| Frente                 | Projeto                | O que demonstra                                                                                                  |
+| ---------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Produto principal      | TemAi                  | IA aplicada em um fluxo real de usuário, com geração sob demanda, biblioteca, perfil e experiência mobile-first. |
+| Crescimento orgânico   | LaunchKit              | Pensamento de distribuição: campanhas, roteiros, carrosséis, prompts e assets para divulgar os próprios apps.    |
+| Operação comercial     | Sabore PDV Inteligente | Modelagem de regras de negócio, gestão de pedidos, estoque, caixa, ficha técnica e módulos para restaurantes.    |
+| Organização financeira | SplitMateApp           | Aplicação full-stack para divisão de despesas, autenticação, dados persistentes e experiência prática em grupo.  |
+
+Essa combinação mostra melhor meu foco atual: construir produto, organizar backend e dados, publicar demos, documentar bem e pensar também em como o projeto chega até usuários.
 
 ## Projetos em destaque
 
