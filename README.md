@@ -12,9 +12,6 @@ Desenvolvedor Back-End focado em transformar ideias em produtos reais com Python
 <a href="https://github.com/brunomafra-dev">
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
 </a>
-<a href="https://brunomafra-dev.github.io/brunomafra-dev/">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-0f172a?style=for-the-badge&logo=vercel&logoColor=34d399" alt="Portfólio" />
-</a>
 
 </div>
 
