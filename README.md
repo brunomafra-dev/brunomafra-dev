@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=780&lines=Back-End+Developer+J%C3%BAnior;Python+%7C+TypeScript+%7C+IA+aplicada;Produtos+full-stack+com+vis%C3%A3o+de+opera%C3%A7%C3%A3o" alt="Typing animation with Bruno Mafra's stack and focus" />
 
-Desenvolvedor Back-End / Full-Stack Júnior em formação, cursando o 3º período de ADS, com foco em Python, TypeScript, IA aplicada e produtos reais.
+Desenvolvedor Back-End / Full-Stack em formação, cursando o 3º período de ADS, com foco em Python, TypeScript, IA aplicada e produtos reais.
 
 Antes da tecnologia, atuei como chef executivo, liderando equipes com mais de 35 pessoas. Hoje trago essa experiência de operação, pressão, comunicação e liderança para construir software com clareza de produto.
 
