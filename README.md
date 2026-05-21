@@ -2,9 +2,11 @@
 
 # Bruno Mafra
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=780&lines=Back-End+Developer;Python+%7C+TypeScript+%7C+Machine+Learning;Construindo+APIs%2C+produtos+full-stack+e+IA+aplicada" alt="Typing animation with Bruno Mafra's stack and focus" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=780&lines=Back-End+Developer+J%C3%BAnior;Python+%7C+TypeScript+%7C+IA+aplicada;Produtos+full-stack+com+vis%C3%A3o+de+opera%C3%A7%C3%A3o" alt="Typing animation with Bruno Mafra's stack and focus" />
 
-Desenvolvedor Back-End focado em transformar ideias em produtos reais com Python, TypeScript, Machine Learning e arquitetura full-stack.
+Desenvolvedor Back-End / Full-Stack Júnior em formação, cursando o 3º período de ADS, com foco em Python, TypeScript, IA aplicada e produtos reais.
+
+Antes da tecnologia, atuei como chef executivo, liderando equipes com mais de 35 pessoas. Hoje trago essa experiência de operação, pressão, comunicação e liderança para construir software com clareza de produto.
 
 <a href="https://www.linkedin.com/in/bruno-carnauba-mafra-4358a1158/">
   <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
@@ -17,17 +19,30 @@ Desenvolvedor Back-End focado em transformar ideias em produtos reais com Python
 
 ---
 
-## O que estou construindo
+## O que busco agora
 
 ```txt
 perfil profissional
-├─ foco: Back-End, APIs, IA aplicada e produtos full-stack
-├─ stack: Python, TypeScript, Next.js, React, Supabase e Tailwind CSS
-├─ agora: melhorando projetos públicos, demos e documentação técnica
-└─ direção: menos protótipo solto, mais produto navegável e bem apresentado
+├─ posição: Desenvolvedor Back-End / Full-Stack Júnior
+├─ formação: 3º período de ADS + cursos completos na DIO
+├─ foco: Python, TypeScript, Next.js, Supabase e IA aplicada
+├─ diferencial: liderança real, operação sob pressão e visão de produto
+└─ objetivo: primeira oportunidade tech, estágio ou vaga júnior
 ```
 
 > Uso o plano gratuito do Supabase, que limita a quantidade de projetos ativos ao mesmo tempo. Por isso, algumas demos podem ficar temporariamente inativas quando precisam dividir infraestrutura.
+
+## Liderança e trajetória
+
+Minha transição para tecnologia não começou do zero em termos profissionais. Como chef executivo, aprendi a lidar com operação real: prazos curtos, equipe grande, pressão diária, comunicação clara e tomada de decisão com impacto direto no resultado.
+
+Essa experiência aparece no jeito como construo projetos:
+
+- Penso em fluxo de uso, não só em tela bonita.
+- Organizo prioridades e entregas como produto em evolução.
+- Documentação e demo importam porque uma ideia precisa ser entendida rápido.
+- Tenho maturidade para receber feedback, ajustar rota e trabalhar em equipe.
+- Busco escrever código com responsabilidade, porque software também é operação.
 
 ## Stack principal
 
@@ -62,14 +77,14 @@ O TemAi é meu projeto principal hoje: um app mobile-first de receitas com IA qu
 
 <img src="./assets/project-ecosystem.svg" alt="Mapa do ecossistema de projetos: TemAi, LaunchKit, Sabore PDV, SplitMate e stack técnica" width="100%" />
 
-### Leitura do mapa
+## Projetos em destaque
 
-| Camada                 | Projeto                | O que isso mostra no meu perfil                                                                                                           |
-| ---------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Produto principal      | TemAi                  | Capacidade de transformar IA em fluxo de produto: entrada do usuário, geração sob demanda, biblioteca, perfil e experiência mobile-first. |
-| Crescimento orgânico   | LaunchKit              | Visão além do código: criação de campanhas, roteiros, carrosséis, prompts e assets para divulgar os próprios apps.                        |
-| Operação comercial     | Sabore PDV Inteligente | Modelagem de regras de negócio, pedidos, estoque, caixa, ficha técnica, CMV e módulos para operação real.                                 |
-| Organização financeira | SplitMateApp           | Full-stack com autenticação, dados persistentes e fluxo prático para divisão de despesas em grupo.                                        |
+| Projeto                                                                            | Papel na minha vitrine                                                                                    | Status                                                         |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [TemAi](https://github.com/brunomafra-dev/TemAi)                                   | Produto principal: IA aplicada, experiência mobile-first, Supabase, biblioteca e fluxo de receita.        | [Demo ativa](https://temaiapp.vercel.app)                      |
+| [LaunchKit](https://github.com/brunomafra-dev/LaunchKit)                           | Crescimento orgânico: campanhas, roteiros, carrosséis, prompts e assets para divulgar meus próprios apps. | [Demo ativa](https://launch-kit-omega.vercel.app)              |
+| [Sabore PDV Inteligente](https://github.com/brunomafra-dev/sabore-pdv-inteligente) | Operação comercial: pedidos, caixa, estoque, ficha técnica, CMV e módulos para restaurantes.              | [Demo ativa](https://sabore-pdv-inteligente.vercel.app)        |
+| [SplitMateApp](https://github.com/brunomafra-dev/SplitMateApp)                     | Organização financeira: divisão de despesas em grupo, autenticação e dados persistentes.                  | Demo temporariamente inativa: https://splitmateapp.vercel.app/ |
 
 ## Stack por camada
 
@@ -81,23 +96,6 @@ O TemAi é meu projeto principal hoje: um app mobile-first de receitas com IA qu
 | IA aplicada | Geração de receitas, prompts, roteiros, campanhas e automação de conteúdo       | TemAi e LaunchKit                    |
 | Produto     | README, demo, status de deploy, documentação e narrativa de uso                 | Perfil, repos e portfólio            |
 
-## Roadmap atual
-
-- Manter o TemAi como projeto principal, com demo ativa e README mais completo.
-- Usar o LaunchKit para apoiar crescimento orgânico dos projetos, principalmente TemAi.
-- Melhorar os READMEs individuais dos repositórios com prints, decisões técnicas e instruções de uso.
-- Reativar ou alternar demos conforme o limite do Supabase Free permitir.
-- Evoluir o portfólio website com formação, soft skills, trajetória e estudos atuais.
-
-## Projetos em destaque
-
-| Projeto                                                                            | O que faz                                                                                               | Status                                                         |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [TemAi](https://github.com/brunomafra-dev/TemAi)                                   | Projeto principal: app de receitas com IA, sugestões por ingredientes e receita completa sob demanda.   | [Demo ativa](https://temaiapp.vercel.app)                      |
-| [LaunchKit](https://github.com/brunomafra-dev/LaunchKit)                           | Ferramenta para gerar campanhas, roteiros, carrosséis e assets de crescimento orgânico para meus apps.  | [Demo ativa](https://launch-kit-omega.vercel.app)              |
-| [Sabore PDV Inteligente](https://github.com/brunomafra-dev/sabore-pdv-inteligente) | SaaS/PDV para restaurantes locais, com pedidos, caixa, estoque, ficha técnica, CMV e módulos opcionais. | [Demo ativa](https://sabore-pdv-inteligente.vercel.app)        |
-| [SplitMateApp](https://github.com/brunomafra-dev/SplitMateApp)                     | Aplicação para dividir despesas entre pessoas, usando TypeScript, Next.js e integração com Supabase.    | Demo temporariamente inativa: https://splitmateapp.vercel.app/ |
-
 <details>
 <summary><strong>Como penso produto e código</strong></summary>
 
@@ -108,11 +106,19 @@ O TemAi é meu projeto principal hoje: um app mobile-first de receitas com IA qu
 
 </details>
 
+## Próximos passos
+
+- Melhorar os READMEs individuais dos projetos com prints, decisões técnicas e instruções de uso.
+- Evoluir o TemAi como case principal de IA aplicada.
+- Usar o LaunchKit para apoiar crescimento orgânico dos projetos.
+- Reativar ou alternar demos conforme o limite do Supabase Free permitir.
+- Evoluir o portfólio website com formação, soft skills, trajetória e estudos atuais.
+
 ## Contato
 
 <div align="center">
 
-Vamos conversar sobre backend, IA aplicada ou desenvolvimento full-stack.
+Vamos conversar sobre backend, IA aplicada, produto ou primeira oportunidade tech.
 
 <br />
 <br />
