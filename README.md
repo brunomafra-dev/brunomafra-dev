@@ -58,16 +58,36 @@ O TemAi é meu projeto principal hoje: um app mobile-first de receitas com IA qu
 - Biblioteca de receitas, páginas públicas, perfil de usuário e base preparada para recursos premium.
 - Integração com Supabase e rotas de API separadas para organizar melhor as responsabilidades.
 
-## Como meus projetos se conectam
+## Mapa do ecossistema
 
-| Frente                 | Projeto                | O que demonstra                                                                                                  |
-| ---------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Produto principal      | TemAi                  | IA aplicada em um fluxo real de usuário, com geração sob demanda, biblioteca, perfil e experiência mobile-first. |
-| Crescimento orgânico   | LaunchKit              | Pensamento de distribuição: campanhas, roteiros, carrosséis, prompts e assets para divulgar os próprios apps.    |
-| Operação comercial     | Sabore PDV Inteligente | Modelagem de regras de negócio, gestão de pedidos, estoque, caixa, ficha técnica e módulos para restaurantes.    |
-| Organização financeira | SplitMateApp           | Aplicação full-stack para divisão de despesas, autenticação, dados persistentes e experiência prática em grupo.  |
+<img src="./assets/project-ecosystem.svg" alt="Mapa do ecossistema de projetos: TemAi, LaunchKit, Sabore PDV, SplitMate e stack técnica" width="100%" />
 
-Essa combinação mostra melhor meu foco atual: construir produto, organizar backend e dados, publicar demos, documentar bem e pensar também em como o projeto chega até usuários.
+### Leitura do mapa
+
+| Camada                 | Projeto                | O que isso mostra no meu perfil                                                                                                           |
+| ---------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Produto principal      | TemAi                  | Capacidade de transformar IA em fluxo de produto: entrada do usuário, geração sob demanda, biblioteca, perfil e experiência mobile-first. |
+| Crescimento orgânico   | LaunchKit              | Visão além do código: criação de campanhas, roteiros, carrosséis, prompts e assets para divulgar os próprios apps.                        |
+| Operação comercial     | Sabore PDV Inteligente | Modelagem de regras de negócio, pedidos, estoque, caixa, ficha técnica, CMV e módulos para operação real.                                 |
+| Organização financeira | SplitMateApp           | Full-stack com autenticação, dados persistentes e fluxo prático para divisão de despesas em grupo.                                        |
+
+## Stack por camada
+
+| Camada      | Tecnologias e práticas                                                          | Onde aparece                         |
+| ----------- | ------------------------------------------------------------------------------- | ------------------------------------ |
+| Interface   | Next.js, React, Tailwind CSS, design mobile-first                               | TemAi, LaunchKit, Sabore e SplitMate |
+| Backend     | API Routes, organização de regras, validação de fluxo e integração com serviços | TemAi, Sabore e SplitMate            |
+| Dados       | Supabase, autenticação, persistência, biblioteca pública e perfis               | TemAi e SplitMate                    |
+| IA aplicada | Geração de receitas, prompts, roteiros, campanhas e automação de conteúdo       | TemAi e LaunchKit                    |
+| Produto     | README, demo, status de deploy, documentação e narrativa de uso                 | Perfil, repos e portfólio            |
+
+## Roadmap atual
+
+- Manter o TemAi como projeto principal, com demo ativa e README mais completo.
+- Usar o LaunchKit para apoiar crescimento orgânico dos projetos, principalmente TemAi.
+- Melhorar os READMEs individuais dos repositórios com prints, decisões técnicas e instruções de uso.
+- Reativar ou alternar demos conforme o limite do Supabase Free permitir.
+- Evoluir o portfólio website com formação, soft skills, trajetória e estudos atuais.
 
 ## Projetos em destaque
 
