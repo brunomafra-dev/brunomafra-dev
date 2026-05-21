@@ -73,6 +73,7 @@ flowchart LR
 | Projeto                                                                            | O que faz                                                                                               | Status                                                         |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [TemAi](https://github.com/brunomafra-dev/TemAi)                                   | Projeto principal: app de receitas com IA, sugestões por ingredientes e receita completa sob demanda.   | [Demo ativa](https://temaiapp.vercel.app)                      |
+| [LaunchKit](https://github.com/brunomafra-dev/LaunchKit)                           | Ferramenta para gerar campanhas, roteiros, carrosséis e assets de crescimento orgânico para meus apps.  | [Demo ativa](https://launch-kit-omega.vercel.app)              |
 | [Sabore PDV Inteligente](https://github.com/brunomafra-dev/sabore-pdv-inteligente) | SaaS/PDV para restaurantes locais, com pedidos, caixa, estoque, ficha técnica, CMV e módulos opcionais. | [Demo ativa](https://sabore-pdv-inteligente.vercel.app)        |
 | [SplitMateApp](https://github.com/brunomafra-dev/SplitMateApp)                     | Aplicação para dividir despesas entre pessoas, usando TypeScript, Next.js e integração com Supabase.    | Demo temporariamente inativa: https://splitmateapp.vercel.app/ |
 
