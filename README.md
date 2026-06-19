@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=780&lines=Back-End+Developer+J%C3%BAnior;Python+%7C+TypeScript+%7C+IA+aplicada;Produtos+full-stack+com+vis%C3%A3o+de+opera%C3%A7%C3%A3o" alt="Typing animation with Bruno Mafra's stack and focus" />
 
-Desenvolvedor Back-End / Full-Stack em formação, cursando o 3º período de ADS, com foco em Python, TypeScript, IA aplicada e produtos reais.
+Desenvolvedor Back-End / Full-Stack em formação, cursando o 3º período de ADS, com foco em Python, TypeScript, Supabase, IA aplicada e produtos reais.
 
 Antes da tecnologia, atuei como chef executivo, liderando equipes com mais de 35 pessoas. Hoje trago essa experiência de operação, pressão, comunicação e liderança para construir software com clareza de produto.
 
@@ -25,12 +25,10 @@ Antes da tecnologia, atuei como chef executivo, liderando equipes com mais de 35
 perfil profissional
 ├─ posição: Desenvolvedor Back-End / Full-Stack Júnior
 ├─ formação: 3º período de ADS + cursos completos na DIO
-├─ foco: Python, TypeScript, Next.js, Supabase e IA aplicada
+├─ foco: Python, TypeScript, React/Next.js, Supabase e IA aplicada
 ├─ diferencial: liderança real, operação sob pressão e visão de produto
 └─ objetivo: primeira oportunidade tech, estágio ou vaga júnior
 ```
-
-> Uso o plano gratuito do Supabase, que limita a quantidade de projetos ativos ao mesmo tempo. Por isso, algumas demos podem ficar temporariamente inativas quando precisam dividir infraestrutura.
 
 ## Liderança e trajetória
 
@@ -40,7 +38,7 @@ Essa experiência aparece no jeito como construo projetos:
 
 - Penso em fluxo de uso, não só em tela bonita.
 - Organizo prioridades e entregas como produto em evolução.
-- Documentação e demo importam porque uma ideia precisa ser entendida rápido.
+- Documentação, demo e narrativa importam porque uma ideia precisa ser entendida rápido.
 - Tenho maturidade para receber feedback, ajustar rota e trabalhar em equipe.
 - Busco escrever código com responsabilidade, porque software também é operação.
 
@@ -62,47 +60,49 @@ Essa experiência aparece no jeito como construo projetos:
 
 ### TemAi
 
-O TemAi é meu projeto principal hoje: um app mobile-first de receitas com IA que transforma ingredientes disponíveis em sugestões rápidas e receitas completas sob demanda.
+O TemAi é meu projeto principal de IA aplicada: um app mobile-first de receitas que transforma ingredientes disponíveis em sugestões rápidas e receitas completas sob demanda.
 
 [Repositório](https://github.com/brunomafra-dev/TemAi) | [Demo ativa](https://temaiapp.vercel.app)
 
 **Pontos fortes do projeto:**
 
 - Fluxo de IA em duas etapas: sugestões primeiro, receita completa só quando o usuário escolhe.
-- Experiência pensada para mobile, com foco em uso rápido e direto.
+- Experiência mobile-first, com foco em uso rápido e direto.
 - Biblioteca de receitas, páginas públicas, perfil de usuário e base preparada para recursos premium.
-- Integração com Supabase e rotas de API separadas para organizar melhor as responsabilidades.
+- Integração com Supabase e rotas de API separadas para organizar responsabilidades.
 
 ## Mapa do ecossistema
 
-<img src="./assets/project-ecosystem.svg" alt="Mapa do ecossistema de projetos: TemAi, LaunchKit, Sabore PDV, SplitMate e stack técnica" width="100%" />
+<img src="./assets/project-ecosystem.svg" alt="Mapa do ecossistema de projetos: TemAi, Mise, Together, LaunchKit, SplitMate e stack técnica" width="100%" />
 
 ## Projetos em destaque
 
-| Projeto                                                                            | Papel na minha vitrine                                                                                    | Status                                                         |
-| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [TemAi](https://github.com/brunomafra-dev/TemAi)                                   | Produto principal: IA aplicada, experiência mobile-first, Supabase, biblioteca e fluxo de receita.        | [Demo ativa](https://temaiapp.vercel.app)                      |
-| [LaunchKit](https://github.com/brunomafra-dev/LaunchKit)                           | Crescimento orgânico: campanhas, roteiros, carrosséis, prompts e assets para divulgar meus próprios apps. | [Demo ativa](https://launch-kit-omega.vercel.app)              |
-| [Sabore PDV Inteligente](https://github.com/brunomafra-dev/sabore-pdv-inteligente) | Operação comercial: pedidos, caixa, estoque, ficha técnica, CMV e módulos para restaurantes.              | [Demo ativa](https://sabore-pdv-inteligente.vercel.app)        |
-| [SplitMateApp](https://github.com/brunomafra-dev/SplitMateApp)                     | Organização financeira: divisão de despesas em grupo, autenticação e dados persistentes.                  | Demo temporariamente inativa: https://splitmateapp.vercel.app/ |
+| Projeto | Papel na minha vitrine | Status |
+| --- | --- | --- |
+| [TemAi](https://github.com/brunomafra-dev/TemAi) | Produto principal: IA aplicada, experiência mobile-first, Supabase, biblioteca e fluxo de receita. | [Demo ativa](https://temaiapp.vercel.app) |
+| [Mise PDV Inteligente](https://github.com/brunomafra-dev/sabore-pdv-inteligente) | SaaS para restaurantes: PDV, mesas, delivery próprio, KDS, estoque, ficha técnica, CMV, caixa e gestão por plano. | [Demo ativa](https://misepdvinteligente.vercel.app/) |
+| [Together](https://github.com/brunomafra-dev/Together) | Finanças de casal: gastos, rendas, contas fixas, parcelas, assinaturas, metas, fechamento mensal e projeção futura. | [Demo ativa](https://togetherbr.vercel.app/) |
+| [LaunchKit](https://github.com/brunomafra-dev/LaunchKit) | Crescimento orgânico: campanhas, roteiros, carrosséis, prompts e assets para divulgar meus próprios apps. | [Demo ativa](https://launch-kit-omega.vercel.app) |
+| [SplitMateApp](https://github.com/brunomafra-dev/SplitMateApp) | Organização financeira: divisão de despesas em grupo, autenticação e dados persistentes. | [Demo ativa](https://splitmateapp.vercel.app/) |
 
 ## Stack por camada
 
-| Camada      | Tecnologias e práticas                                                          | Onde aparece                         |
-| ----------- | ------------------------------------------------------------------------------- | ------------------------------------ |
-| Interface   | Next.js, React, Tailwind CSS, design mobile-first                               | TemAi, LaunchKit, Sabore e SplitMate |
-| Backend     | API Routes, organização de regras, validação de fluxo e integração com serviços | TemAi, Sabore e SplitMate            |
-| Dados       | Supabase, autenticação, persistência, biblioteca pública e perfis               | TemAi e SplitMate                    |
-| IA aplicada | Geração de receitas, prompts, roteiros, campanhas e automação de conteúdo       | TemAi e LaunchKit                    |
-| Produto     | README, demo, status de deploy, documentação e narrativa de uso                 | Perfil, repos e portfólio            |
+| Camada | Tecnologias e práticas | Onde aparece |
+| --- | --- | --- |
+| Interface | Next.js, React, Vite, Tailwind CSS, design mobile-first | TemAi, Mise, Together, LaunchKit e SplitMate |
+| Backend | API Routes, organização de regras, validação de fluxo e integração com serviços | TemAi, Mise e SplitMate |
+| Dados | Supabase, autenticação, RLS, persistência, storage e perfis | TemAi, Together, Mise e SplitMate |
+| IA aplicada | Geração de receitas, prompts, roteiros, campanhas e automação de conteúdo | TemAi e LaunchKit |
+| Produto | README, demo, status de deploy, documentação e narrativa de uso | Perfil, repositórios e portfólio |
 
 <details>
 <summary><strong>Como penso produto e código</strong></summary>
 
 - Começo pelo problema real que a aplicação resolve.
-- Priorizo fluxos navegáveis, README claro e demo funcional quando a infraestrutura permite.
+- Priorizo fluxos navegáveis, README claro e demo funcional.
 - Gosto de separar bem backend, UI, dados e regras de domínio.
 - Trato projeto público como vitrine: nome, descrição, documentação e deploy também contam.
+- Busco construir projetos que pareçam usáveis de verdade, não só provas de conceito.
 
 </details>
 
@@ -110,9 +110,9 @@ O TemAi é meu projeto principal hoje: um app mobile-first de receitas com IA qu
 
 - Melhorar os READMEs individuais dos projetos com prints, decisões técnicas e instruções de uso.
 - Evoluir o TemAi como case principal de IA aplicada.
-- Usar o LaunchKit para apoiar crescimento orgânico dos projetos.
-- Reativar ou alternar demos conforme o limite do Supabase Free permitir.
-- Evoluir o portfólio website com formação, soft skills, trajetória e estudos atuais.
+- Consolidar o Together como app financeiro real de casal.
+- Evoluir o Mise como case SaaS operacional para restaurantes.
+- Continuar usando o LaunchKit para apoiar crescimento orgânico dos projetos.
 
 ## Contato
 
