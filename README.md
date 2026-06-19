@@ -73,7 +73,7 @@ O TemAi é meu projeto principal de IA aplicada: um app mobile-first de receitas
 
 ## Mapa do ecossistema
 
-<img src="./assets/project-ecosystem.svg" alt="Mapa do ecossistema de projetos: TemAi, Mise, Together, LaunchKit, SplitMate e stack técnica" width="100%" />
+<img src="./assets/project-ecosystem-v2.svg" alt="Mapa do ecossistema de projetos: TemAi, Mise, Together, LaunchKit, SplitMate e stack técnica" width="100%" />
 
 ## Projetos em destaque
 
