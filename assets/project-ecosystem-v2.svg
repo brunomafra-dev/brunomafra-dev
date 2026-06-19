@@ -74,9 +74,10 @@
   </g>
 
   <g filter="url(#shadow)">
-    <rect x="382" y="620" width="356" height="86" rx="20" fill="#111827" stroke="#34d399"/>
+    <rect x="330" y="620" width="460" height="92" rx="20" fill="#111827" stroke="#34d399"/>
     <text x="418" y="654" fill="#34d399" font-family="Arial, sans-serif" font-size="14" font-weight="900">BASE TÉCNICA</text>
-    <text x="418" y="682" fill="#f8fafc" font-family="Arial, sans-serif" font-size="22" font-weight="900">React, Next.js, TypeScript, Supabase, APIs e IA</text>
+    <text x="418" y="680" fill="#f8fafc" font-family="Arial, sans-serif" font-size="20" font-weight="900">React, Next.js, TypeScript, Supabase</text>
+    <text x="418" y="704" fill="#f8fafc" font-family="Arial, sans-serif" font-size="20" font-weight="900">APIs, dados e IA aplicada</text>
   </g>
 
   <g font-family="Arial, sans-serif" font-size="13" font-weight="900">
