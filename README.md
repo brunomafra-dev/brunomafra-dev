@@ -2,24 +2,30 @@
 
 # Bruno Mafra
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=780&lines=Back-End+Developer+J%C3%BAnior;Python+%7C+TypeScript+%7C+IA+aplicada;Produtos+full-stack+com+vis%C3%A3o+de+opera%C3%A7%C3%A3o" alt="Typing animation with Bruno Mafra's stack and focus" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=780&lines=Back-End+Developer+J%C3%BAnior;Python+%7C+TypeScript+%7C+IA+aplicada;Produtos+full-stack+com+vis%C3%A3o+de+opera%C3%A7%C3%A3o" alt="Back-End Developer Júnior, Python, TypeScript, IA aplicada e produtos full-stack com visão de operação" />
 
 Desenvolvedor Back-End / Full-Stack em formação, cursando o 3º período de ADS, com foco em Python, TypeScript, Supabase, IA aplicada e produtos reais.
 
-Antes da tecnologia, atuei como chef executivo, liderando equipes com mais de 35 pessoas. Hoje trago essa experiência de operação, pressão, comunicação e liderança para construir software com clareza de produto.
+Antes da tecnologia, atuei como chef executivo e liderei equipes com mais de 35 pessoas. Hoje transformo essa bagagem de operação, pressão, comunicação e liderança em software com clareza de produto.
 
-<a href="https://www.linkedin.com/in/bruno-carnauba-mafra-4358a1158/">
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/bruno-carnauba-15615441a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="Acessar LinkedIn de Bruno Mafra" />
 </a>
 <a href="https://github.com/brunomafra-dev">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="Acessar GitHub de Bruno Mafra" />
+</a>
+<a href="https://www.brunomafra.website/pt">
+  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=34d399" alt="Abrir portfólio de Bruno Mafra" />
+</a>
+<a href="https://www.dio.me/articles/aprender-tecnologia-nunca-foi-tao-facil-e-ao-mesmo-tempo-nunca-foi-tao-dificil-bda6967777fd">
+  <img src="https://img.shields.io/badge/Artigo_DIO-0f172a?style=for-the-badge&logo=readme&logoColor=facc15" alt="Ler artigo de Bruno Mafra na DIO" />
 </a>
 
 </div>
 
 ---
 
-## O que busco agora
+## Posicionamento atual
 
 ```txt
 perfil profissional
@@ -30,15 +36,15 @@ perfil profissional
 └─ objetivo: primeira oportunidade tech, estágio ou vaga júnior
 ```
 
-## Liderança e trajetória
+## Trajetória e liderança
 
-Minha transição para tecnologia não começou do zero em termos profissionais. Como chef executivo, aprendi a lidar com operação real: prazos curtos, equipe grande, pressão diária, comunicação clara e tomada de decisão com impacto direto no resultado.
+Minha transição para tecnologia não começou do zero em termos profissionais. Como chef executivo, aprendi a lidar com operação real: prazos curtos, equipe grande, pressão diária, comunicação clara e decisões com impacto direto no resultado.
 
-Essa experiência aparece no jeito como construo projetos:
+Essa experiência aparece no modo como construo projetos:
 
 - Penso em fluxo de uso, não só em tela bonita.
 - Organizo prioridades e entregas como produto em evolução.
-- Documentação, demo e narrativa importam porque uma ideia precisa ser entendida rápido.
+- Documento decisões, mantenho demos acessíveis e cuido da narrativa para que cada projeto seja entendido rápido.
 - Tenho maturidade para receber feedback, ajustar rota e trabalhar em equipe.
 - Busco escrever código com responsabilidade, porque software também é operação.
 
@@ -52,19 +58,19 @@ Essa experiência aparece no jeito como construo projetos:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1f2937?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
 ![Git](https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=f97316)
 
-## Gráfico de foco
+## Foco técnico
 
-<img src="./assets/profile-focus.svg" alt="Gráfico de foco atual: Back-End e APIs, IA aplicada, Full-stack, Produto e documentação" width="100%" />
+<img src="./assets/profile-focus.svg" alt="Gráfico de foco atual de Bruno Mafra: Back-End e APIs, IA aplicada, Full-stack, Produto e documentação" width="100%" />
 
-## Projeto principal
+## Case principal
 
 ### TemAi
 
-O TemAi é meu projeto principal de IA aplicada: um app mobile-first de receitas que transforma ingredientes disponíveis em sugestões rápidas e receitas completas sob demanda.
+O TemAi é meu principal case de IA aplicada: um app mobile-first de receitas que transforma ingredientes disponíveis em sugestões rápidas e receitas completas sob demanda.
 
 [Repositório](https://github.com/brunomafra-dev/TemAi) | [Demo ativa](https://temaiapp.vercel.app)
 
-**Pontos fortes do projeto:**
+**Por que ele importa:**
 
 - Fluxo de IA em duas etapas: sugestões primeiro, receita completa só quando o usuário escolhe.
 - Experiência mobile-first, com foco em uso rápido e direto.
@@ -73,11 +79,11 @@ O TemAi é meu projeto principal de IA aplicada: um app mobile-first de receitas
 
 ## Mapa do ecossistema
 
-<img src="./assets/project-ecosystem-v2.svg" alt="Mapa do ecossistema de projetos: TemAi, Mise, Together, LaunchKit, SplitMate e stack técnica" width="100%" />
+<img src="./assets/project-ecosystem-v2.svg" alt="Mapa do ecossistema de projetos de Bruno Mafra: TemAi, Mise, Together, LaunchKit, SplitMate e stack técnica" width="100%" />
 
 ## Projetos em destaque
 
-| Projeto | Papel na minha vitrine | Status |
+| Projeto | Papel no ecossistema | Status |
 | --- | --- | --- |
 | [TemAi](https://github.com/brunomafra-dev/TemAi) | Produto principal: IA aplicada, experiência mobile-first, Supabase, biblioteca e fluxo de receita. | [Demo ativa](https://temaiapp.vercel.app) |
 | [Mise PDV Inteligente](https://github.com/brunomafra-dev/sabore-pdv-inteligente) | SaaS para restaurantes: PDV, mesas, delivery próprio, KDS, estoque, ficha técnica, CMV, caixa e gestão por plano. | [Demo ativa](https://misepdvinteligente.vercel.app/) |
@@ -96,19 +102,19 @@ O TemAi é meu projeto principal de IA aplicada: um app mobile-first de receitas
 | Produto | README, demo, status de deploy, documentação e narrativa de uso | Perfil, repositórios e portfólio |
 
 <details>
-<summary><strong>Como penso produto e código</strong></summary>
+<summary><strong>Princípios de produto e código</strong></summary>
 
 - Começo pelo problema real que a aplicação resolve.
 - Priorizo fluxos navegáveis, README claro e demo funcional.
 - Gosto de separar bem backend, UI, dados e regras de domínio.
-- Trato projeto público como vitrine: nome, descrição, documentação e deploy também contam.
+- Trato projeto público como produto em vitrine: nome, descrição, documentação e deploy também contam.
 - Busco construir projetos que pareçam usáveis de verdade, não só provas de conceito.
 
 </details>
 
 ## Próximos passos
 
-- Melhorar os READMEs individuais dos projetos com prints, decisões técnicas e instruções de uso.
+- Fortalecer os READMEs individuais dos projetos com prints, decisões técnicas e instruções de uso.
 - Evoluir o TemAi como case principal de IA aplicada.
 - Consolidar o Together como app financeiro real de casal.
 - Evoluir o Mise como case SaaS operacional para restaurantes.
@@ -123,11 +129,17 @@ Vamos conversar sobre backend, IA aplicada, produto ou primeira oportunidade tec
 <br />
 <br />
 
-<a href="https://www.linkedin.com/in/bruno-carnauba-mafra-4358a1158/">
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/bruno-carnauba-15615441a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="Acessar LinkedIn de Bruno Mafra" />
 </a>
 <a href="https://github.com/brunomafra-dev">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="Acessar GitHub de Bruno Mafra" />
+</a>
+<a href="https://www.brunomafra.website/pt">
+  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=34d399" alt="Abrir portfólio de Bruno Mafra" />
+</a>
+<a href="https://www.dio.me/articles/aprender-tecnologia-nunca-foi-tao-facil-e-ao-mesmo-tempo-nunca-foi-tao-dificil-bda6967777fd">
+  <img src="https://img.shields.io/badge/Artigo_DIO-0f172a?style=for-the-badge&logo=readme&logoColor=facc15" alt="Ler artigo de Bruno Mafra na DIO" />
 </a>
 
 </div>
